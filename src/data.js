@@ -117,7 +117,7 @@ const shopData = {
     linkType: null,
   },
   comebuy: {
-    chtName: '過來買',
+    chtName: 'COMEBUY',
     menuSrc: 'https://i.imgur.com/QV0ufCQ.jpg',
     bnhName: '新店北新',
     tel: '02 2911 1788',

@@ -145,7 +145,7 @@ const shopData = {
   },
   mubai: {
     chtName: '沐白小農',
-    menuSrc: 'https://i.imgur.com/7EbwS9k.jpg',
+    menuSrc: 'https://i.imgur.com/OkIz5v4.jpg',
     bnhName: '新店民權店',
     tel: '02 2912 8859',
     fax: null,

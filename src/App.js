@@ -19,7 +19,7 @@ class App extends Component {
     };
     return (
       <Router>
-        <div>
+        <div class="shop-area">
           <nav className="navigator">
             <ul>
               {Object.keys(shopData).map(shopKey => (

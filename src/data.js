@@ -73,7 +73,7 @@ const shopData = {
   },
   dayungs: {
     chtName: '大苑子',
-    menuSrc: 'https://i.imgur.com/fOiaNHs.jpg',
+    menuSrc: 'https://i.imgur.com/QCgNILK.jpg',
     bnhName: '台北木新店',
     tel: '02 2918 0338',
     fax: null,

@@ -152,6 +152,15 @@ const shopData = {
     orderLink: null,
     linkType: null,
   },
+  dragon1646: {
+    chtName: '吉龍糖',
+    menuSrc: 'https://i.imgur.com/0jAD3de.jpg',
+    bnhName: '新店建國門市',
+    tel: '02 2911 1323',
+    fax: null,
+    orderLink: null,
+    linkType: null,
+  },
 };
 
 export default shopData;

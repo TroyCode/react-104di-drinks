@@ -161,6 +161,15 @@ const shopData = {
     orderLink: null,
     linkType: null,
   },
+  cowbanana: {
+    chtName: 'Cow Banana',
+    menuSrc: 'https://i.imgur.com/e7ALnGY.jpg',
+    bnhName: '政大店',
+    tel: '02 2234 0101',
+    fax: null,
+    orderLink: null,
+    linkType: null,
+  },
 };
 
 export default shopData;

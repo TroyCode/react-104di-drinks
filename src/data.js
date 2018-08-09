@@ -170,6 +170,15 @@ const shopData = {
     orderLink: null,
     linkType: null,
   },
+  n7tealounge: {
+    chtName: '柒品茶',
+    menuSrc: 'https://i.imgur.com/quhherd.jpg',
+    bnhName: '',
+    tel: '02 2933 8181',
+    fax: null,
+    orderLink: null,
+    linkType: null,
+  },
 };
 
 export default shopData;

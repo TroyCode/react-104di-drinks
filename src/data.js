@@ -179,6 +179,15 @@ const shopData = {
     orderLink: null,
     linkType: null,
   },
+  kebuke: {
+    chtName: '可不可熟成紅茶',
+    menuSrc: 'https://i.imgur.com/0N58UjV.jpg',
+    bnhName: '新店民權店',
+    tel: '02 2219 1313',
+    fax: '02 2218 1313',
+    orderLink: null,
+    linkType: null,
+  },
 };
 
 export default shopData;

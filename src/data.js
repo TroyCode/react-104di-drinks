@@ -188,6 +188,15 @@ const shopData = {
     orderLink: null,
     linkType: null,
   },
+  chunyangtea: {
+    chtName: '春陽茶事',
+    menuSrc: 'https://i.imgur.com/UCa04O9.jpg',
+    bnhName: '新店中正店',
+    tel: '02 2917 8917',
+    fax: null,
+    orderLink: null,
+    linkType: null,
+  },
 };
 
 export default shopData;

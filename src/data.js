@@ -197,6 +197,15 @@ const shopData = {
     orderLink: null,
     linkType: null,
   },
+  lebingo: {
+    chtName: '樂冰果',
+    menuSrc: 'https://i.imgur.com/dpjurTR.png',
+    bnhName: '',
+    tel: '0909 030 113',
+    fax: null,
+    orderLink: '@lebingo',
+    linkType: 'line',
+  }
 };
 
 export default shopData;

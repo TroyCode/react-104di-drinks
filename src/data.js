@@ -205,7 +205,16 @@ const shopData = {
     fax: null,
     orderLink: '@lebingo',
     linkType: 'line',
-  }
+  },
+  louisacoffee: {
+    chtName: '路易莎咖啡',
+    menuSrc: 'https://i.imgur.com/NiTNl0f.jpg',
+    bnhName: '新店寶橋店',
+    tel: '02 2912 2920',
+    fax: null,
+    orderLink: null,
+    linkType: null,
+  },
 };
 
 export default shopData;

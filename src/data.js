@@ -215,6 +215,15 @@ const shopData = {
     orderLink: null,
     linkType: null,
   },
+  tenren: {
+    chtName: '天仁茗茶',
+    menuSrc: 'https://i.imgur.com/Ksxxiaj.png',
+    bnhName: '新店寶橋店',
+    tel: '02 2912 7328',
+    fax: '02 2918 5590',
+    orderLink: null,
+    linkType: 'fax',
+  },
 };
 
 export default shopData;

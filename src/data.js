@@ -222,7 +222,16 @@ const shopData = {
     tel: '02 2912 7328',
     fax: '02 2918 5590',
     orderLink: null,
-    linkType: 'fax',
+    linkType: null,
+  },
+  dontyellatme: {
+    chtName: '不要對我尖叫，日常茶間',
+    menuSrc: 'https://i.imgur.com/eSE5Fkv.jpg',
+    bnhName: '新店大坪林店',
+    tel: '02 2918 5255',
+    fax: null,
+    orderLink: null,
+    linkType: null,
   },
 };
 

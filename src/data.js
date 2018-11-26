@@ -1,5 +1,5 @@
 const shopData = {
-  millkShop: {
+  milkShop: {
     chtName: '迷客夏',
     menuSrc: 'https://i.imgur.com/ooNPTKl.jpg',
     bnhName: '台北新店店',

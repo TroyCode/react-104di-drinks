@@ -12,7 +12,7 @@ class App extends Component {
           <h1>{shop.chtName}</h1>
           <p>{shop.bnhName}: <a href={`tel:${shop.tel}`}>{shop.tel}</a></p>
           <div className="menu">
-            <img src={shop.menuSrc} />
+            <img src={shop.menuSrc} alt="" />
           </div>
         </div>
       );

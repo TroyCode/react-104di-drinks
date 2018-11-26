@@ -93,6 +93,7 @@
     "extends": "react-app"
   },
   "devDependencies": {
+    "imagemin-webpack-plugin": "^2.3.0",
     "node-sass": "^4.9.2",
     "normalize.css": "^8.0.0",
     "sass-loader": "^7.0.3",

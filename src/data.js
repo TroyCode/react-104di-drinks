@@ -241,6 +241,15 @@ const shopData = {
     orderLink: null,
     linkType: null,
   },
+  wulintea: {
+    chtName: '武林茶',
+    menuSrc: images['wulintea.png'],
+    bnhName: '公館汀州店',
+    tel: '02 2368 2710',
+    fax: null,
+    orderLink: null,
+    linkType: null,
+  }
 };
 
 export default shopData;
